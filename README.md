@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# awesome-books-es6
+# webpack-project
 
 > A simple website that contains a editable list of books
 
